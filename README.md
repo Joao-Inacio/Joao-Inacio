@@ -2,6 +2,7 @@
 - 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas 
 - 👨‍💻 Estudando Python
 - ⌨ Desenvolvendo projetos Pessoais 
+-  🏛 Procurando uma  oportunidade de Estágio 
 <div>
   <a href="https://github.com/joaoinacio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
