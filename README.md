@@ -1,8 +1,13 @@
-## Olá! Eu sou João Inácio 🖖
-- 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas 
-- 👨‍💻 Estudando Python
-- ⌨ Desenvolvendo projetos Pessoais 
--  🏛 Procurando uma  oportunidade de Estágio 
+<img width="25%" align="right" alt="Github" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<div>
+  ## Olá! Eu sou João Inácio 🖖
+  <ul>
+    <li>🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>👨‍💻 Estudando Python</li>
+    <li>⌨ Desenvolvendo projetos Pessoais </li>
+    <li> 🏛 Procurando uma  oportunidade de Estágio</li> 
+  </ul>
+ </div>
 <div>
   <a href="https://github.com/joaoinacio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -23,3 +28,4 @@
   <a href = "mailto:joaoinacio206@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-in%C3%A1cio-228499b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+<!-- Link do gif https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9    -->
