@@ -1,6 +1,6 @@
 <img width="25%" align="right" alt="Github" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <div>
-  ## Olá! Eu sou João Inácio 🖖
+  <h2>Olá! Eu sou João Inácio 🖖</h2>
   <ul>
     <li>🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas</li>
     <li>👨‍💻 Estudando Python</li>
