@@ -1,9 +1,8 @@
-<img width="25%" align="right" alt="Github" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" alt="Github" src="https://github.com/Joao-Inacio/Joao-Inacio/blob/main/github-header-image.png?raw=true" />
 <div>
-  <h2>Olá! Eu sou João Inácio 🖖</h2>
   <ul>
-    <li>🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>👨‍💻 Estudando Python</li>
+    <li>🎓Cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>👨‍💻 Estudando Python para Ciência De Dados</li>
     <li>⌨ Desenvolvendo projetos Pessoais </li>
     <li> 🏛 Procurando uma  oportunidade de Estágio</li> 
   </ul>
