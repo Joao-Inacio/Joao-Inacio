@@ -2,7 +2,7 @@
 <div>
   <ul>
     <li>🎓Cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>👨‍💻 Estudando Python para Ciência De Dados</li>
+    <li>👨‍💻 Estudando Python para Ciência de Dados</li>
     <li>⌨ Desenvolvendo projetos Pessoais </li>
     <li> 🏛 Procurando uma  oportunidade de Estágio</li> 
   </ul>
