@@ -1,4 +1,4 @@
-<img align="center" alt="Github" src="https://github.com/Joao-Inacio/Joao-Inacio/blob/main/github-header-image.png?raw=true" />
+<img align="center" alt="Github" src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/github-capa.png" />
 <div>
   <ul>
     <li>🎓Cursando Análise e Desenvolvimento de Sistemas</li>
