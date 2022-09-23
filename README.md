@@ -10,7 +10,6 @@
 <div>
   <a href="https://github.com/Joao-Inacio">
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/>
-    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joao-Inacio&theme=github_dark"/>
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-Inacio&theme=github_dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Inacio&layout=compact&langs_count=7&theme=chartreuse-dark"/>
