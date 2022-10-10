@@ -9,9 +9,9 @@
  </div>
 <div>
   <a href="https://github.com/Joao-Inacio">
-    <img width="900em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/>
-    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-Inacio&theme=github_dark"/>
-    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-Inacio&theme=github_dark"/>
+    <img width="800em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/>
+    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-Inacio&theme=github_dark"/>
+    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-Inacio&theme=github_dark"/>
   </a> 
 </div>
   
