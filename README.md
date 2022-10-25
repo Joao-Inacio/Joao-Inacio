@@ -1,7 +1,7 @@
 <img align="center" alt="Github" src="https://github.com/Joao-Inacio/Joao-Inacio/blob/main/github-new-capa.png?raw=true" />
 <div>
   <ul>
-    <li>🎓Cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>🎓Cursando Big Data e Inteligência Analítica</li>
     <li>👨‍💻 Estudando Python para Ciência de Dados</li>
     <li>⌨ Desenvolvendo projetos Pessoais </li>
     <li> 🏛 Procurando uma  oportunidade de Estágio</li> 
