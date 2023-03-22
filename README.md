@@ -9,17 +9,19 @@
  </div>
 <div>
   <a href="https://github.com/Joao-Inacio">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-Inacio&show_icons=true&theme=transparent&locale=en&layout=compact" alt="joao-inacio" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&theme=transparent&locale=en" alt="joao-inacio" /></p>
     <img width="800em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/>
-    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-Inacio&theme=github_dark"/>
-    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-Inacio&theme=github_dark"/>
   </a> 
 </div>
   
   ##
   
   <div>
-  <a href="https://instagram.com/joaoinacio.ofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaoinacio206@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-in%C3%A1cio-228499b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <p align="left">
+<a href="https://linkedin.com/in/joão inácio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão inácio" height="30" width="40" /></a>
+<a href="https://kaggle.com/joaoinacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joaoinacio" height="30" width="40" /></a>
+<a href="https://instagram.com/joaoinacio.ofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoinacio.ofc" height="30" width="40" /></a>
+</p>
   </div>
 <!-- Link do gif https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9    -->
