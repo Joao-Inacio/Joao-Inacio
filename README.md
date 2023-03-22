@@ -19,9 +19,9 @@
   
   <div>
  <p align="left">
-<a href="https://linkedin.com/in/joão-inácio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão inácio" height="30" width="40" /></a>
-<a href="https://kaggle.com/joaoinacio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joaoinacio" height="30" width="40" /></a>
-<a href="https://instagram.com/joaoinacio.ofc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoinacio.ofc" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/joão-inácio"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão inácio" height="30" width="40" /></a>
+<a target="_blank" href="https://kaggle.com/joaoinacio"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joaoinacio" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/joaoinacio.ofc"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoinacio.ofc" height="30" width="40" /></a>
 </p>
   </div>
 <!-- Link do gif https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9    -->
