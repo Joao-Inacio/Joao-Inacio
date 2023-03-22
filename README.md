@@ -19,7 +19,7 @@
   
   <div>
  <p align="left">
-<a href="https://linkedin.com/in/joão inácio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão inácio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joão-inácio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão inácio" height="30" width="40" /></a>
 <a href="https://kaggle.com/joaoinacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joaoinacio" height="30" width="40" /></a>
 <a href="https://instagram.com/joaoinacio.ofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoinacio.ofc" height="30" width="40" /></a>
 </p>
