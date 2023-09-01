@@ -2,7 +2,7 @@
 <div>
   <ul>
     <li>🎓Cursando Big Data e Inteligência Analítica</li>
-    <li>👨‍💻 Estudando Python para Ciência de Dados</li>
+    <li>👨‍💻 Estudando Python para Machine Learning</li>
     <li>⌨ Desenvolvendo projetos Pessoais </li>
     <li> 🏛 Procurando uma  oportunidade de Estágio</li> 
   </ul>
