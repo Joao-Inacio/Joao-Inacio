@@ -17,7 +17,7 @@
   
 - 🏢 Procurando uma  oportunidade de Estágio
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Data Science Portfol.io](datascienceportfol.io/joao_inacio)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Data Science Portfolio](datascienceportfol.io/joao_inacio)
 
 - 📝 Escrevo artigos as vezes em [Medium](https://medium.com/@joao-inacio)
 
