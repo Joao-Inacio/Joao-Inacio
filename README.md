@@ -1,7 +1,7 @@
 <img src="/img/github-header-image-readme.png">
 <div>
   <h3 align="left">Estudante de Ciência de Dados</h3>
-  <img height="195em" align="right" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
+  <img height="195em" align="right" src="/img/datascience.gif">
   <!-- https://blog.imarticus.org/sql-for-data-science-one-stop-solution-for-beginners/ -->
 </div>
 <br>
