@@ -1,3 +1,4 @@
+<img src="/img/github-header-image-readme.png">
 <h3 align="center">Estudante de Ciência de Dados</h3>
 
 - 🎓 Cursando Big Data e Inteligência Analítica
@@ -10,13 +11,13 @@
   
 - 🏢 Procurando uma  oportunidade de Estágio
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [datascienceportfolio](datascienceportfol.io/joao_inacio)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Data Science Portfol.io](datascienceportfol.io/joao_inacio)
 
-- 📝 Escrevo artigos as vezes em [https://medium.com/@joao-inacio](https://medium.com/@joao-inacio)
+- 📝 Escrevo artigos as vezes em [Medium](https://medium.com/@joao-inacio)
 
 - 💬 Pergunte-me sobre **Ciência de Dados**
 
-- 📄 Conheça minhas experiências em [https://www.linkedin.com/in/joão-inácio](https://www.linkedin.com/in/joão-inácio)
+- 📄 Conheça minhas experiências em [Linkedin](https://www.linkedin.com/in/joão-inácio)
 
 - ⚡ Curiosidade **Em 2018, fiz um vídeo que, embora de um desconhecido, alcançou mais de 10 milhões de visualizações no Facebook.**
 
@@ -27,18 +28,19 @@
 <p align="left">
 <a href="https://linkedin.com/in/-joaoinacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-joaoinacio" height="30" width="40" /></a>
 <a href="https://kaggle.com/joaoinacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joaoinacio" height="30" width="40" /></a>
-<a href="https://medium.com/@joao-inacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joao-inacio" height="30" width="40" /></a>
+<a href="https://medium.com/@joao-inacio" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" alt="@joao-inacio" height="30" width="40" /></a>
 <a href="https://discord.gg/joao.inacio#1497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joao.inacio#1497" height="30" width="40" /></a>
 </p>
 
 
+<br>
+
+
+<div style="display: flex; align-items: center;">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-inacio&show_icons=true&theme=transparent&locale=en&layout=compact" alt="joao-inacio" />
+    <img src="https://github-readme-stats.vercel.app/api?username=joao-inacio&show_icons=true&theme=transparent&locale=en" alt="joao-inacio" />
+</div>
+
+<p><img width="825em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/></p>
 <h3 align="left">Apoiar:</h3>
-<p><a href="https://www.buymeacoffee.com/joaoinacio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joaoinacio" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-inacio&show_icons=true&theme=transparent&locale=en&layout=compact" alt="joao-inacio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-inacio&show_icons=true&theme=transparent&locale=en" alt="joao-inacio" /></p>
-
-<p><img width="800em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/></p>
-
+<p><a href="https://www.buymeacoffee.com/joaoinacio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joaoinacio" /></a></p>
