@@ -9,7 +9,7 @@
 
 - 🎓 Cursando Big Data e Inteligência Analítica
 
-- 🌱 Atualmente estou aprendendo **SQL, NoSQL, integração de bancos de dados com Python**
+- 🌱 Atualmente estou aprendendo **Matemática e Algoritmo de Machine Learning**
 
 - 👯 Estou procurando colaborar com **Projetos de Ciência de Dados**
 
