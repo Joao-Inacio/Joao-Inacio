@@ -1,4 +1,105 @@
 {
+    // Personalização Minimalista
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.5,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    // "workbench.activityBar.location": "hidden",
+    // "workbench.statusBar.visible": false,
+    // "window.menuBarVisibility": "compact",
+    // "window.commandCenter": false,
+    // "workbench.layoutControl.enabled": false,
+    // 
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.tabSize": 4,
+    "code-runner.executorMap": {
+        "python": "clear ; .\\venv\\Scripts\\python.exe",
+        // "python": "$pythonPath $fullFileName",
+        "php": "C:\\xampp\\php\\php.exe",
+        // "powershell": "powershell -ExecutionPolicy ByPass -File",
+        "bat": "cmd /c",
+        "shellscript": "bash",
+    },
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "editor.minimap.enabled": true,
+    "breadcrumbs.enabled": true,
+    "debug.console.fontSize": 15,
+    "editor.formatOnSave": true,
+    "python.testing.unittestEnabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "editor.rulers": [
+            79
+        ]
+    },
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "normal",
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "[sql]": {
+        "editor.minimap.enabled": false,
+    },
+    "python.languageServer": "Pylance",
+    "python.defaultInterpreterPath": ".\\venv\\Scripts\\python.exe",
+    "git.enableSmartCommit": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "files.autoSave": "afterDelay",
+    "editor.linkedEditing": true,
+    "explorer.confirmDragAndDrop": false,
+    "diffEditor.wordWrap": "on",
+    "files.associations": {
+        "*.html": "html",
+        "**/templates/*.html": "django-html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/parciais/*.html": "django-html",
+        "**/templates/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "editor.wordWrapColumn": 130,
+    "editor.wordWrap": "wordWrapColumn",
+    "explorer.confirmDelete": false,
+    "code-runner.clearPreviousOutput": true,
+    "jupyter.themeMatplotlibPlots": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.cursorBlinking": "expand",
+    // "editor.cursorSmoothCaretAnimation": "on",
+    "jupyter.askForKernelRestart": false,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "workbench.productIconTheme": "fluent-icons",
+    "aws.suppressPrompts": {
+        "codeWhispererNewWelcomeMessage": true
+    },
+    "cSpell.language": "en,pt,pt_BR",
+    "aws.telemetry": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    // Personalização do Tema
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Sublime Monokai",
     // Meu tema
@@ -17,7 +118,7 @@
         "focusBorder": "#43bad875",
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
-        "editor.inactiveSelectionBackground": "#6688cc",
+        "editor.inactiveSelectionBackground": "#6688cc9f",
         "editor.findMatchBackground": "#6688cc",
         "editor.findMatchBorder": "#43bad875",
         "editor.selectionBackground": "#94b2eee0",
@@ -154,5 +255,16 @@
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#43B9D8",
         "terminal.border": "#43bad875"
-    }
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "julia.enableTelemetry": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.largeFileOptimizations": false,
+    "jupyter.exportWithOutputEnabled": true,
+    "explorer.confirmPasteNative": false,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoImportCompletions": true
 }
