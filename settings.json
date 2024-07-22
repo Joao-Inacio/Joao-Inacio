@@ -1,7 +1,7 @@
 {
     // Personalização Minimalista
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 15,
+    "editor.fontSize": 14,
     "editor.lineHeight": 1.5,
     "editor.renderLineHighlight": "gutter",
     "editor.fontLigatures": true,
@@ -24,7 +24,7 @@
         "php": "C:\\xampp\\php\\php.exe",
         // "powershell": "powershell -ExecutionPolicy ByPass -File",
         "bat": "cmd /c",
-        "shellscript": "bash",
+        "shellscript": "bash"
     },
     "code-runner.ignoreSelection": true,
     "code-runner.runInTerminal": true,
@@ -45,15 +45,16 @@
             79
         ]
     },
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorWidth": 2,
     "terminal.integrated.fontWeight": "normal",
     "isort.args": [
         "--profile",
         "black"
     ],
     "[sql]": {
-        "editor.minimap.enabled": false,
+        "editor.minimap.enabled": true
     },
     "python.languageServer": "Pylance",
     "python.defaultInterpreterPath": ".\\venv\\Scripts\\python.exe",
@@ -65,6 +66,13 @@
     "editor.linkedEditing": true,
     "explorer.confirmDragAndDrop": false,
     "diffEditor.wordWrap": "on",
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true,
+        "suppressLineUncommittedWarning": true
+    },
+    "gitlens.defaultDateFormat": null,
+    "gitlens.defaultTimeFormat": null,
+    "gitlens.defaultDateShortFormat": null,
     "files.associations": {
         "*.html": "html",
         "**/templates/*.html": "django-html",
@@ -99,9 +107,10 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "terminal.integrated.enableMultiLinePasteWarning": "never",
-    // Personalização do Tema
-    "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Sublime Monokai",
+    // Cor das pastas
+    // "material-icon-theme.folders.color": "#3d4151",
+    "material-icon-theme.folders.color": "#424865",
     // Meu tema
     "workbench.colorCustomizations": {
         "terminal.background": "#000",
@@ -266,5 +275,31 @@
     "jupyter.exportWithOutputEnabled": true,
     "explorer.confirmPasteNative": false,
     "python.analysis.autoFormatStrings": true,
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "amazonQ.telemetry": false,
+    "pgsql.connections": [
+        {
+            "host": "127.0.0.1",
+            "dbname": "pedido",
+            "user": "postgres",
+            "password": "",
+            "emptyPasswordInput": false,
+            "port": "5432",
+            "connectTimeout": 15,
+            "encrypt": false,
+            "applicationName": "vscode-pgsql",
+            "hostaddr": "",
+            "options": "",
+            "sslmode": "prefer",
+            "clientEncoding": "",
+            "sslcompression": true,
+            "sslcert": "",
+            "sslkey": "",
+            "sslrootcert": "",
+            "sslcrl": "",
+            "requirepeer": ""
+        }
+    ],
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "material-icon-theme"
 }
