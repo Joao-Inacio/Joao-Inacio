@@ -1,5 +1,4 @@
 <img width="100%" src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/github-header-image1.png" alt="my banner"> 
-<p>Prazer! Sou João Inácio, um profissional emergente em ciência de dados</p>
 
 <h2 align="left">💫 Um pouco mais sobre mim </h2>
 <p>🎓 Cursando Tec em Administração</p> 
