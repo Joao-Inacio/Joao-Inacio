@@ -1,7 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/github-header-image1.png" alt="my banner"> 
 
 <h2 align="left">💫 Um pouco mais sobre mim </h2>
-<p>🎓 Cursando Tec em Administração</p> 
+<p>🎓 Cursando Tec em Administração - IFCE</p> 
 <p>🔭 Atualmente estou trabalhando em Projetos Pessoais</p> 
 <p>🌱 Atualmente estou aprendendo IoT, Blockchain, Computação em Nuvem e Inteligência Artificial</p> 
 <p>💬 Pergunte-me sobre Ciência de Dados </p> 
