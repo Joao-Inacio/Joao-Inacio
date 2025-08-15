@@ -1,124 +1,116 @@
 {
-	// Personalização Minimalista
-	"editor.fontFamily": "JetBrains Mono",
-	"editor.fontSize": 14,
-	"editor.lineHeight": 1.5,
-	"editor.renderLineHighlight": "gutter",
-	"editor.fontLigatures": true,
-	"workbench.editor.labelFormat": "short",
-	"explorer.compactFolders": false,
-	"editor.scrollbar.vertical": "hidden",
-	"editor.scrollbar.horizontal": "hidden",
-	// "workbench.activityBar.location": "hidden",
-	// "workbench.statusBar.visible": false,
-	// "window.menuBarVisibility": "compact",
-	// "window.commandCenter": false,
-	// "workbench.layoutControl.enabled": false,
-	// 
-	"editor.suggestSelection": "first",
-	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	"editor.tabSize": 4,
-	"code-runner.executorMap": {
-		"python": "cd .\\.venv\\Scripts\\; .\\Activate.ps1; cd ..; cd ..; clear ; .\\.venv\\Scripts\\python.exe",
-		// "python": "$pythonPath $fullFileName",
-		"php": "C:\\xampp\\php\\php.exe",
-		// "powershell": "powershell -ExecutionPolicy ByPass -File",
-		"bat": "cmd /c",
-		"shellscript": "bash"
-	},
-	"even-better-toml": {
-		"schema": {
-			"enabled": false
-		}
-	},
-	"code-runner.ignoreSelection": true,
-	"code-runner.runInTerminal": true,
-	"editor.minimap.enabled": true,
-	"breadcrumbs.enabled": true,
-	"debug.console.fontSize": 15,
-	"editor.formatOnSave": true,
-	"python.testing.unittestEnabled": true,
-	"python.linting.flake8Enabled": true,
-	"python.linting.mypyEnabled": true,
+    // ========================================================================
+    // Seção de UI e Aparência (Suas preferências, tudo certo aqui)
+    // ========================================================================
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Sublime Monokai",
+    "material-icon-theme.folders.color": "#424865", // Configuração do outro tema de ícones
+
+	// Ajustar Jupyter
+	"jupyter.themeMatplotlibPlots": true,
+	"jupyter.askForKernelRestart": false,
+	"jupyter.notebookFileRoot": "${workspaceFolder}",
+
+	// Melhor integração Ruff + UV
 	"[python]": {
 		"editor.defaultFormatter": "charliermarsh.ruff",
-		"editor.tabSize": 4,
-		"editor.insertSpaces": true,
 		"editor.formatOnSave": true,
 		"editor.codeActionsOnSave": {
-			"source.organizeImports": "explicit",
-			"source.organizeImports.ruff": "explicit",
+			"source.fixAll.ruff": "explicit",
+			"source.organizeImports.ruff": "explicit"
 		},
-		"editor.rulers": [
-			79
-		],
+		"editor.rulers": [79],
+		"editor.tabSize": 4,
+		"editor.insertSpaces": true
 	},
-	"terminal.integrated.fontFamily": "JetBrains Mono",
-	"terminal.integrated.fontSize": 14,
-	"terminal.integrated.cursorWidth": 2,
-	"terminal.integrated.fontWeight": "normal",
-	"isort.args": [
-		"--profile",
-		"black"
-	],
-	"[sql]": {
-		"editor.minimap.enabled": true
+
+	// Atalhos para Data Science
+	"python.dataScience.sendSelectionToInteractiveWindow": true,
+	"python.dataScience.textOutputLimit": 0,
+
+	// Executar Python no terminal integrado
+	"code-runner.executorMap": {
+		"python": "cd .\\.venv\\Scripts\\; .\\Activate.ps1; cd ..; cd ..; clear ; uv run python"
 	},
-	"python.languageServer": "Pylance",
-	"python.defaultInterpreterPath": ".\\.venv\\Scripts\\python.exe",
-	"git.enableSmartCommit": true,
-	"terminal.integrated.copyOnSelection": true,
-	"terminal.integrated.cursorBlinking": true,
-	"terminal.integrated.cursorStyle": "line",
-	"files.autoSave": "afterDelay",
-	"editor.linkedEditing": true,
-	"explorer.confirmDragAndDrop": false,
-	"diffEditor.wordWrap": "on",
-	"gitlens.advanced.messages": {
-		"suppressGitMissingWarning": true,
-		"suppressLineUncommittedWarning": true
-	},
-	"gitlens.defaultDateFormat": null,
-	"gitlens.defaultTimeFormat": null,
-	"gitlens.defaultDateShortFormat": null,
-	"files.associations": {
-		"*.html": "html",
-		"**/templates/*.html": "django-html",
-		"**/templates/**/*.html": "django-html",
-		"**/templates/parciais/*.html": "django-html",
-		"**/templates/*": "django-txt",
-		"**/requirements{/**,*}.{txt,in}": "pip-requirements"
-	},
-	"emmet.includeLanguages": {
-		"django-html": "html"
-	},
-	"editor.wordWrapColumn": 130,
-	"editor.wordWrap": "wordWrapColumn",
+
+	// Melhorar pesquisa e navegação
+	"search.followSymlinks": false,
 	"explorer.confirmDelete": false,
-	"code-runner.clearPreviousOutput": true,
-	"jupyter.themeMatplotlibPlots": true,
-	"git.autofetch": true,
-	"git.confirmSync": false,
-	"editor.cursorBlinking": "expand",
-	// "editor.cursorSmoothCaretAnimation": "on",
-	"jupyter.askForKernelRestart": false,
-	"emmet.excludeLanguages": [
-		"markdown"
-	],
-	"workbench.productIconTheme": "fluent-icons",
-	"aws.suppressPrompts": {
-		"codeWhispererNewWelcomeMessage": true
+
+
+    // ========================================================================
+    // Seção do Editor e Comportamento Geral
+    // ========================================================================
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "explorer.confirmDragAndDrop": false,
+    "editor.suggestSelection": "first",
+    "editor.linkedEditing": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 130,
+    "editor.tabSize": 4,
+
+    // ========================================================================
+    // Configurações de Python (CENTRALIZADO E CORRIGIDO)
+    // ========================================================================
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.envFile": "${workspaceFolder}/.env",
+
+    // RECOMENDAÇÃO: Removido "python.defaultInterpreterPath". Use o comando "Python: Select Interpreter" (Ctrl+Shift+P).
+
+    // Configuração de Testes (Correta)
+    "python.testing.unittestEnabled": false, // RECOMENDAÇÃO: Desabilitar se usa pytest
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [ "tests" ],
+    // "python.testing.autoTestDiscoverOnSaveEnabled": "true",
+
+    // RECOMENDAÇÃO: Bloco unificado para Python. Este bloco tem prioridade sobre as configurações globais para arquivos .py
+	"terminal.integrated.env.linux": {
+		"PYTHONPATH": "${workspaceFolder}"
 	},
-	"cSpell.language": "en,pt,pt_BR",
-	"aws.telemetry": false,
-	"[jsonc]": {
-		"editor.defaultFormatter": "vscode.json-language-features"
-	},
-	"terminal.integrated.enableMultiLinePasteWarning": "never",
-	// Cor das pastas
-	// "material-icon-theme.folders.color": "#3d4151",
-	"material-icon-theme.folders.color": "#424865",
-	// Meu tema
+
+    // RECOMENDAÇÃO: Removidas as configurações globais de formatOnSave e codeActionsOnSave para evitar conflitos.
+    // RECOMENDAÇÃO: Removido bloco "isort.args", pois o Ruff já cuida disso.
+
+    // ========================================================================
+    // Configurações de Ferramentas e Extensões
+    // ========================================================================
+
+    // RECOMENDAÇÃO: O mapa do Code Runner para Python não é mais necessário se você usa o "Play Button" da extensão Python.
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+
+    "files.associations": {
+        "*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+
+    // ========================================================================
+    // Seção de Segurança e Diversos
+    // ========================================================================
+    "security.workspace.trust.untrustedFiles": "prompt", // RECOMENDAÇÃO: Alterado para 'prompt' por segurança.
+    "cSpell.language": "en,pt,pt_BR",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 14,
 	"workbench.colorCustomizations": {
 		"statusBarItem.remoteBackground": "#000000",
 		"statusBarItem.remoteForeground": "#00ffff",
@@ -274,63 +266,33 @@
 		"gitlens.trailingLineForegroundColor": "#43B9D8",
 		"terminal.border": "#43bad875"
 	},
-	// Tema mono
-	"security.workspace.trust.untrustedFiles": "open",
-	"editor.largeFileOptimizations": false,
-	"jupyter.exportWithOutputEnabled": true,
-	"explorer.confirmPasteNative": false,
-	"python.analysis.autoFormatStrings": true,
-	"python.analysis.autoImportCompletions": true,
-	"amazonQ.telemetry": false,
-	"pgsql.connections": [
-		{
-			"host": "127.0.0.1",
-			"dbname": "pedido",
-			"user": "postgres",
-			"password": "",
-			"emptyPasswordInput": false,
-			"port": "5432",
-			"connectTimeout": 15,
-			"encrypt": false,
-			"applicationName": "vscode-pgsql",
-			"hostaddr": "",
-			"options": "",
-			"sslmode": "prefer",
-			"clientEncoding": "",
-			"sslcompression": true,
-			"sslcert": "",
-			"sslkey": "",
-			"sslrootcert": "",
-			"sslcrl": "",
-			"requirepeer": ""
-		}
-	],
-	"symbols.hidesExplorerArrows": false,
 	"workbench.iconTheme": "material-icon-theme",
-	"cmake.showOptionsMovedNotification": false,
-	"explorer.fileNesting.patterns": {
-		"*.ts": "${capture}.js",
-		"*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-		"*.jsx": "${capture}.js",
-		"*.tsx": "${capture}.ts",
-		"tsconfig.json": "tsconfig.*.json",
-		"package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
-		"*.sqlite": "${capture}.${extname}-*",
-		"*.db": "${capture}.${extname}-*",
-		"*.sqlite3": "${capture}.${extname}-*",
-		"*.db3": "${capture}.${extname}-*",
-		"*.sdb": "${capture}.${extname}-*",
-		"*.s3db": "${capture}.${extname}-*"
-	},
-	"database-client.autoSync": true,
-	"workbench.colorTheme": "Sublime Monokai",
+	"jupyter.interactiveWindow.creationMode": "perFile",
+	"jupyter.interactiveWindow.textEditor.executeSelection": true,
 	"github.copilot.enable": {
 		"*": false,
 		"plaintext": false,
 		"markdown": false,
 		"scminput": false
 	},
-	"security.allowedUNCHosts": [
-		"wsl.localhost"
-	]
+	"database-client.autoSync": true,
+	"python.defaultInterpreterPath": ".\\.venv\\Scripts\\python.exe",
+	"python.terminal.executeInFileDir": true,
+	"window.menuBarVisibility": "compact",
+	"workbench.layoutControl.enabled": false,
+	"chat.commandCenter.enabled": false,
+	// Desativar Telemetria e Coleta de Dados
+	"telemetry.telemetryLevel": "off",
+	"redhat.telemetry.enabled": false,
+	"azure.telemetry.enabled": false,
+	"workbench.enableExperiments": false,
+	"workbench.settings.enableNaturalLanguageSearch": false,
+	// Carregamento sob demanda:
+	"extensions.autoCheckUpdates": false,
+	"extensions.autoUpdate": false,
+	// Ajustar para abrir e carregar mais rápido
+	// "editor.minimap.enabled": false,
+	"workbench.startupEditor": "none",
+	"editor.renderWhitespace": "none",
+	"editor.smoothScrolling": true
 }
