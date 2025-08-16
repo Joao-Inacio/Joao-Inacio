@@ -16,7 +16,7 @@
 	// Ajustar Jupyter
 	"jupyter.themeMatplotlibPlots": true,
 	"jupyter.askForKernelRestart": false,
-	"jupyter.notebookFileRoot": "${workspaceFolder}",
+	"jupyter.notebookFileRoot": "${fileDirname}",
 
 	// Melhor integração Ruff + UV
 	"[python]": {
@@ -34,10 +34,14 @@
 	// Atalhos para Data Science
 	"python.dataScience.sendSelectionToInteractiveWindow": true,
 	"python.dataScience.textOutputLimit": 0,
+	"python.analysis.extraPaths": [
+        "${workspaceFolder}"
+    ],
 
 	// Executar Python no terminal integrado
 	"code-runner.executorMap": {
-		"python": "cd .\\.venv\\Scripts\\; .\\Activate.ps1; cd ..; cd ..; clear ; uv run python"
+		// "python": "cd .\\.venv\\Scripts\\; .\\Activate.ps1; cd ..; cd ..; clear ; uv run python"
+		"python": "cd $workspaceRoot; clear; uv run python -u $fullFileName"
 	},
 
 	// Melhorar pesquisa e navegação
@@ -78,6 +82,9 @@
 	"terminal.integrated.env.linux": {
 		"PYTHONPATH": "${workspaceFolder}"
 	},
+	"terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
 
     // RECOMENDAÇÃO: Removidas as configurações globais de formatOnSave e codeActionsOnSave para evitar conflitos.
     // RECOMENDAÇÃO: Removido bloco "isort.args", pois o Ruff já cuida disso.
