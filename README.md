@@ -1,11 +1,10 @@
 <img width="100%" src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/github-header-image1.png" alt="my banner"> 
 
 <h2 align="left">💫 Um pouco mais sobre mim </h2>
-<p>🎓 Tec em Administração - IFCE</p> 
-<p>🎓 Cursando Engenharia de Software - Gran Faculdade</p> 
-<p>🔭 Atualmente sou Estagiário de Dados na [CarBigData](https://carbigdata.com.br/)</p> 
-<p>🌱 Atualmente estou aprendendo IoT, Blockchain, Computação em Nuvem e Inteligência Artificial</p> 
-<p>💬 Pergunte-me sobre Ciência de Dados </p> 
+<p>🎓 Tec em Administração - IFCE.</p>
+<p>🎓 Cursando Engenharia de Software - Gran Faculdade.</p>
+<p>🔭 Atualmente sou Estagiário de Dados na <a href="https://carbigdata.com.br">CarBigData</a>.</p>
+<p>🌱 Atualmente estou aprendendo IoT, Blockchain, Computação em Nuvem e Inteligência Artificial.</p>
 <p>📫 Como entrar em contato comigo? <a href="mailto:joaoinacio206@proton.me">joaoinacio206@proton.me</a> </p>
   
 <p>🤖 Todos os meus projetos estão disponíveis em <a href="https://www.datascienceportfol.io/joao_inacio">datascienceportfol.io</a></p>
