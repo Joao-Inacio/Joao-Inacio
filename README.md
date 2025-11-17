@@ -108,11 +108,11 @@
 ">
 
    <img
-    src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=540"
+    src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=50%"
     height="180"
   />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=540"
+    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=50%"
     height="180"
   />
 
