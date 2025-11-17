@@ -1,39 +1,125 @@
-<img width="100%" src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/github-header-image1.png" alt="my banner"> 
+<img width="100%" src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/git.png" alt="my banner"> 
+<h2></h2>
+<div align="center">
 
-<h2 align="left">💫 Um pouco mais sobre mim </h2>
-<p>🎓 Tec em Administração - IFCE.</p>
-<p>🎓 Cursando Engenharia de Software - Gran Faculdade.</p>
-<p>🔭 Atualmente sou Estagiário de Dados na <a href="https://carbigdata.com.br">CarBigData</a>.</p>
-<p>🌱 Atualmente estou aprendendo IoT, Blockchain, Computação em Nuvem e Inteligência Artificial.</p>
-<p>📫 Como entrar em contato comigo? <a href="mailto:joaoinacio206@proton.me">joaoinacio206@proton.me</a> </p>
-  
-<p>🤖 Todos os meus projetos estão disponíveis em <a href="https://www.datascienceportfol.io/joao_inacio">datascienceportfol.io</a></p>
-<p>😄Saiba sobre minhas experiências <a href="https://www.linkedin.com/in/joao-inacio-sn/">aqui</a></p>
+  <a href="https://www.linkedin.com/in/joao-inacio-sn/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
 
-<h2 align="left">Linguagens e Ferramentas</h2>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/arduino/arduino-original.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+  <a href="https://www.instagram.com/joao.inac.io/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="30">
+  </a>
 
-<h2 align="left">👥 Conecte-se comigo:</h2>
-<p>
-<a href="https://www.linkedin.com/in/joao-inacio-sn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/joao.inac.io/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.kaggle.com/joaoinacio"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://joao-inacio.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.hackerrank.com/profile/joaoinacio206"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+  <a href="https://www.kaggle.com/joaoinacio" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" height="30">
+  </a>
+
+  <a href="https://joao-inacio.medium.com/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="30">
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/joaoinacio206" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" height="30">
+  </a>
+
+</div>
+<br>
+<h2 align="center"><i>Sobre min</i></h2>
+<img src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/plan.gif" width="220" align="right" style="margin-left: 30px;" />
+<br><p> Olá! <em><b>Eu sou o João Inácio</b></em>, um estudante de Engenharia de Software com foco em dados. Gosto de aprender novas tecnologias e entender como tudo funciona por trás dos bastidores, especialmente quando envolve Ciência de Dados, Machine Learning e IA. Atualmente, estou trabalhando em projetos práticos que envolvem Python, SQL, pipelines de dados, visão computacional e modelagem de Machine Learning, sempre buscando evoluir e colocar em prática tudo o que aprendo. </p>
+<br>
+
+<br>
+<h2 align="center"><i>Tecnologias</i></h2>
+<div align="center">
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30">
+  </a>
+
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/TOML-000000?style=for-the-badge&logo=toml&logoColor=white" height="30">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=white" height="30">
+  </a>
+
+</div>
+
+
+
+
 
 
 <br>
+<h2 align="center"><i>Estatísticas</i></h2>
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+">
 
+   <img
+    src="https://github-readme-stats.vercel.app/api?username=Joao-Inacio&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350"
+    height="180"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401"
+    height="180"
+  />
 
-<div style="display: flex; align-items: center;">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-inacio&show_icons=true&theme=transparent&locale=en&layout=compact" alt="joao-inacio" />
-    <img src="https://github-readme-stats.vercel.app/api?username=joao-inacio&show_icons=true&theme=transparent&locale=en" alt="joao-inacio" />
 </div>
 
-<p><img width="825em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Inacio&theme=github_dark"/></p>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Inacio&theme=high-contrast"/>
+
 <h3 align="left">Apoiar:</h3>
 <p><a href="https://www.buymeacoffee.com/joaoinacio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joaoinacio" /></a></p>
