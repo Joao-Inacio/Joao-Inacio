@@ -112,7 +112,7 @@
     height="180"
   />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401"
+    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=450"
     height="180"
   />
 
