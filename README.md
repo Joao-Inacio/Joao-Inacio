@@ -120,6 +120,3 @@
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Inacio&theme=high-contrast"/>
-
-<h3 align="left">Apoiar:</h3>
-<p><a href="https://www.buymeacoffee.com/joaoinacio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joaoinacio" /></a></p>
