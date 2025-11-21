@@ -26,7 +26,7 @@
 <br>
 <h2 align="center"><i>Sobre min</i></h2>
 <img src="https://raw.githubusercontent.com/Joao-Inacio/Joao-Inacio/main/img/plan.gif" width="220" align="right" style="margin-left: 30px;" />
-<br><p> Olá! <em><b>Eu sou o João Inácio</b></em>, um estudante de Engenharia de Software com foco em dados. Gosto de aprender novas tecnologias e entender como tudo funciona por trás dos bastidores, especialmente quando envolve Ciência de Dados, Machine Learning e IA. Atualmente, estou trabalhando em projetos práticos que envolvem Python, SQL, pipelines de dados, visão computacional e modelagem de Machine Learning, sempre buscando evoluir e colocar em prática tudo o que aprendo. </p>
+<br><p> Olá! Eu sou o João Inácio, estudante de Engenharia de Software apaixonado por dados e pelo funcionamento interno dos sistemas inteligentes. Nos últimos anos, venho estudando Ciência de Dados e IA, e recentemente comecei a direcionar minha jornada para Engenharia de Machine Learning, um caminho que combina tudo o que eu gosto: criar, entender a lógica por trás dos modelos e construir soluções que realmente funcionam no mundo real. Hoje desenvolvo projetos com Python, SQL e pipelines de dados focados em ML, sempre buscando evoluir e aprender novas formas de levar modelos para produção com mais qualidade e eficiência.</p>
 <br>
 
 <br>
@@ -112,7 +112,7 @@
     height="180"
   />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=450"
+    src="https://nirzak-streak-stats.vercel.app/?user=Joao-Inacio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=470"
     height="180"
   />
 
