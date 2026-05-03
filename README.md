@@ -107,8 +107,8 @@
   flex-wrap: wrap;
 "  width="100%">
 
-   <img src="https://streak-stats.demolab.com?user=Joao-Inacio&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-Inacio&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
+   <img src="https://streak-stats.demolab.com?user=Joao-Inacio&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="500" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-Inacio&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="500" />
 
 </div>
 
