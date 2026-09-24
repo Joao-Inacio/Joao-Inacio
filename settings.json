@@ -30,6 +30,7 @@
 		"editor.tabSize": 4,
 		"editor.insertSpaces": true
 	},
+	// "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
 
 	// Atalhos para Data Science
 	"python.dataScience.sendSelectionToInteractiveWindow": true,
@@ -41,7 +42,8 @@
 	// Executar Python no terminal integrado
 	"code-runner.executorMap": {
 		// "python": "cd .\\.venv\\Scripts\\; .\\Activate.ps1; cd ..; cd ..; clear ; uv run python"
-		"python": "cd $workspaceRoot; clear; uv run python -u $fullFileName"
+		// "python": "cd $workspaceRoot; clear; uv run python -u $fullFileName"
+		"python": "$pythonPath -u $fullFileName"
 	},
 
 	// Melhorar pesquisa e navegação
@@ -130,9 +132,7 @@
 		"editorGutter.background": "#000",
 		// Aqui
 		"icon.foreground": "#ffffff",
-		"contrastBorder": "#43bad875",
 		"contrastActiveBorder": "#00ccff00",
-		"focusBorder": "#43bad875",
 		"editor.foreground": "#FFFFFF",
 		"editor.background": "#000000",
 		"editor.inactiveSelectionBackground": "#6688cc9f",
@@ -165,6 +165,13 @@
 		"terminal.ansiWhite": "#f1f1f1",
 		"terminal.ansiBrightWhite": "#f1f1f1",
 		"titleBar.activeForeground": "#43B9D8",
+		"panel.background": "#000000",
+		"panel.border": "#43B9D8",
+		"panelTitle.activeForeground": "#43B9D8",
+		"panelTitle.inactiveForeground": "#43bad8",
+		"panelTitle.border": "#00000000",
+		"panelSection.border": "#00000000",
+		"terminal.border": "#00000000",
 		"editorSuggestWidget.background": "#000000",
 		"editorSuggestWidget.foreground": "#FFFFFF",
 		"editorSuggestWidget.border": "#43bad8",
@@ -173,21 +180,24 @@
 		"editorHoverWidget.background": "#000000",
 		"editorHoverWidget.border": "#43bad875",
 		"editorWidget.background": "#000000",
-		"editorWidget.border": "#000000",
+		"editorWidget.border": "#43B9D822",
 		"editorIndentGuide.activeBackground1": "#505050",
 		"breadcrumb.foreground": "#43B9D8",
 		"menu.background": "#000000",
 		"menu.border": "#43bad8",
-		"panel.background": "#000000",
-		"panel.dropBorder": "#43B9D8",
-		"panel.border": "#00000000",
-		"panelTitle.activeForeground": "#43B9D8",
-		"panelTitle.inactiveForeground": "#43bad8",
-		"panelSection.border": "#43bad875",
 		"sideBar.background": "#000",
 		"sideBarSectionHeader.border": "#43bad875",
 		"sideBar.border": "#00000000",
 		"sideBarTitle.foreground": "#43B9D8",
+		"notebook.editorBackground": "#000000",
+		"notebook.cellEditorBackground": "#000000",
+		"notebook.cellBorderColor": "#43B9D875",
+		"notebook.focusedCellBorder": "#43B9D895",
+		"notebook.focusedEditorBorder": "#43B9D895",
+		"notebook.inactiveFocusedCellBorder": "#43B9D875",
+		"notebook.selectedCellBorder": "#43B9D8",
+		"notebook.selectedCellBackground": "#000000",
+		"notebook.focusedCellBackground": "#000000",
 		"sideBar.foreground": "#FFFFFF",
 		"sideBarSectionHeader.background": "#000000",
 		"sideBarSectionHeader.foreground": "#43B9D8",
@@ -220,7 +230,6 @@
 		"tab.inactiveModifiedBorder": "#43bad875",
 		"tab.hoverBorder": "#43bad875",
 		"editorGroupHeader.tabsBackground": "#000000",
-		"editorGroup.border": "#000000",
 		"editorGroupHeader.tabsBorder": "#000000",
 		"editorGroupHeader.border": "#000000",
 		"editorGroupHeader.noTabsBackground": "#000000",
@@ -271,7 +280,6 @@
 		"list.activeSelectionForeground": "#00FFFF",
 		"gitlens.trailingLineBackgroundColor": "#000000",
 		"gitlens.trailingLineForegroundColor": "#43B9D8",
-		"terminal.border": "#43bad875"
 	},
 	"workbench.iconTheme": "material-icon-theme",
 	"jupyter.interactiveWindow.creationMode": "perFile",
@@ -283,23 +291,25 @@
 		"scminput": false
 	},
 	"database-client.autoSync": true,
-	"python.defaultInterpreterPath": ".\\.venv\\Scripts\\python.exe",
 	"python.terminal.executeInFileDir": true,
 	"window.menuBarVisibility": "compact",
 	"workbench.layoutControl.enabled": false,
 	"chat.commandCenter.enabled": false,
 	// Desativar Telemetria e Coleta de Dados
-	"telemetry.telemetryLevel": "off",
-	"redhat.telemetry.enabled": false,
-	"azure.telemetry.enabled": false,
-	"workbench.enableExperiments": false,
-	"workbench.settings.enableNaturalLanguageSearch": false,
+	// "telemetry.telemetryLevel": "off",
+	// "redhat.telemetry.enabled": false,
+	// "azure.telemetry.enabled": false,
+	// "workbench.enableExperiments": false,
+	// "workbench.settings.enableNaturalLanguageSearch": false,
 	// Carregamento sob demanda:
 	"extensions.autoCheckUpdates": false,
-	"extensions.autoUpdate": false,
-	// Ajustar para abrir e carregar mais rápido
-	// "editor.minimap.enabled": false,
-	"workbench.startupEditor": "none",
+	"extensions.autoUpdate": "off",
 	"editor.renderWhitespace": "none",
-	"editor.smoothScrolling": true
+	"editor.smoothScrolling": true,
+	"chat.titleBar.openInAgentsWindow.enabled": false,
+	"window.density.layout": "compact",
+	"jupyter.widgetScriptSources": [
+		"jsdelivr.com",
+		"unpkg.com"
+	]
 }
